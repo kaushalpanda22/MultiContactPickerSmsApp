@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact Picker &amp; Message</string>
+    <string name="invite_with_number">INVITE (%1$d)</string>
+    <string name="permission_granted">Permission is granted</string>
+    <string name="permission_revoked">Permission is revoked</string>
+    <string name="share_msg">For 30 Days of Kotlin with Google Developers, Kindly visit on https://eventsonair.withgoogle.com/events/kotlin</string>
+    <string name="query_hint">click here to search and enter text</string>
+</resources>
